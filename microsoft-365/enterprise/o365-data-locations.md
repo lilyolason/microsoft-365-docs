@@ -214,9 +214,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Global Geography 2 – Asia Pacific |
 | Viva Learning | Global Geography 2 – Asia Pacific |
 | Viva Insights - Personal | Global Geography 2 – Asia Pacific |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 2 – Asia Pacific |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | Global Geography 2 – Asia Pacific 
 </p></details>
 
 ## Aland Islands
@@ -242,9 +240,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Global Geography 1 – EMEA |
 | Viva Learning | Global Geography 1 – EMEA |
 | Viva Insights - Personal | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | Global Geography 2 – Asia Pacific |
 </p></details>
 
 ## Albania
@@ -270,9 +266,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Global Geography 1 – EMEA |
 | Viva Learning | Global Geography 1 – EMEA |
 | Viva Insights - Personal | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | Global Geography 1 – EMEA |
 </p></details>
 
 ## Algeria
@@ -298,9 +292,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Global Geography 1 – EMEA |
 | Viva Learning | Global Geography 1 – EMEA |
 | Viva Insights - Personal | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | Global Geography 1 – EMEA |
 </p></details>
 
 ## American Samoa
@@ -326,9 +318,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Global Geography 2 – Asia Pacific |
 | Viva Learning | Global Geography 2 – Asia Pacific |
 | Viva Insights - Personal | Global Geography 2 – Asia Pacific |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 2 – Asia Pacific |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | Global Geography 2 – Asia Pacific|
 </p></details>
 
 ## Andorra
@@ -354,9 +344,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Global Geography 1 – EMEA |
 | Viva Learning | Global Geography 1 – EMEA |
 | Viva Insights - Personal | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | Global Geography 1 – EMEA |
 </p></details>
 
 ## Angola
@@ -382,9 +370,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Global Geography 1 – EMEA |
 | Viva Learning | Global Geography 1 – EMEA |
 | Viva Insights - Personal | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced |Global Geography 1 – EMEA|
 </p></details>
 
 ## Anguilla
@@ -410,9 +396,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | United States |
 | Viva Learning | United States |
 | Viva Insights - Personal | United States |
-| Viva Insights - Manager/Leader AAD org data only | United States |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | United States|
 </p></details>
 
 ## Antarctica
@@ -438,9 +422,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | United States |
 | Viva Learning | United States |
 | Viva Insights - Personal | United States |
-| Viva Insights - Manager/Leader AAD org data only | United States |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | United States|
 </p></details>
 
 ## Antigua and Barbuda
@@ -466,9 +448,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | United States |
 | Viva Learning | United States |
 | Viva Insights - Personal | United States |
-| Viva Insights - Manager/Leader AAD org data only | United States |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | United States| 
 </p></details>
 
 ## Argentina
@@ -494,9 +474,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Global Geography 3 – Americas |
 | Viva Learning | Global Geography 3 – Americas |
 | Viva Insights - Personal | Global Geography 3 – Americas |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 3 – Americas |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | United States|
 </p></details>
 
 ## Armenia
@@ -522,9 +500,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Global Geography 1 – EMEA |
 | Viva Learning | Global Geography 1 – EMEA |
 | Viva Insights - Personal | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | Global Geography 1 – EMEA|
 </p></details>
 
 ## Aruba
@@ -550,9 +526,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | United States |
 | Viva Learning | United States |
 | Viva Insights - Personal | United States |
-| Viva Insights - Manager/Leader AAD org data only | United States |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | United States|
 </p></details>
 
 ## Australia
@@ -578,9 +552,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Australia |
 | Viva Learning | Australia |
 | Viva Insights - Personal | Australia |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 2 – Asia Pacific |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced |
 </p></details>
 
 ## Austria
@@ -606,9 +578,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | European Union |
 | Viva Learning | European Union |
 | Viva Insights - Personal | European Union |
-| Viva Insights - Manager/Leader AAD org data only | European Union |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | European Union |
 </p></details>
 
 ## Azerbaijan
@@ -634,9 +604,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Global Geography 1 – EMEA |
 | Viva Learning | Global Geography 1 – EMEA |
 | Viva Insights - Personal | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | Global Geography 1 – EMEA| 
 </p></details>
 
 ## Bahamas
@@ -662,9 +630,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | United States |
 | Viva Learning | United States |
 | Viva Insights - Personal | United States |
-| Viva Insights - Manager/Leader AAD org data only | United States |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | United States |
 </p></details>
 
 ## Bahrain
@@ -690,9 +656,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Global Geography 1 – EMEA |
 | Viva Learning | Global Geography 1 – EMEA |
 | Viva Insights - Personal | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | Global Geography 1 – EMEA |
 </p></details>
 
 ## Bangladesh
@@ -718,9 +682,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Global Geography 2 – Asia Pacific |
 | Viva Learning | Global Geography 2 – Asia Pacific |
 | Viva Insights - Personal | Global Geography 2 – Asia Pacific |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 2 – Asia Pacific |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | Global Geography 2 – Asia Pacific |
 </p></details>
 
 ## Barbados
@@ -746,9 +708,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | United States |
 | Viva Learning | United States |
 | Viva Insights - Personal | United States |
-| Viva Insights - Manager/Leader AAD org data only | United States |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | United States |
 </p></details>
 
 ## Belarus
@@ -774,9 +734,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Global Geography 1 – EMEA |
 | Viva Learning | Global Geography 1 – EMEA |
 | Viva Insights - Personal | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | Global Geography 1 – EMEA |
 </p></details>
 
 ## Belgium
@@ -802,9 +760,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | European Union |
 | Viva Learning | European Union |
 | Viva Insights - Personal | European Union |
-| Viva Insights - Manager/Leader AAD org data only | European Union |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | European Union  |
 </p></details>
 
 ## Belize
@@ -830,9 +786,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | United States |
 | Viva Learning | United States |
 | Viva Insights - Personal | United States |
-| Viva Insights - Manager/Leader AAD org data only | United States |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | United States |
 </p></details>
 
 ## Benin
@@ -858,9 +812,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Global Geography 1 – EMEA |
 | Viva Learning | Global Geography 1 – EMEA |
 | Viva Insights - Personal | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | Global Geography 1 – EMEA  |
 </p></details>
 
 ## Bermuda
@@ -886,9 +838,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | United States |
 | Viva Learning | United States |
 | Viva Insights - Personal | United States |
-| Viva Insights - Manager/Leader AAD org data only | United States |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | United States |
 </p></details>
 
 ## Bhutan
@@ -914,9 +864,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Global Geography 2 – Asia Pacific |
 | Viva Learning | Global Geography 2 – Asia Pacific |
 | Viva Insights - Personal | Global Geography 2 – Asia Pacific |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 2 – Asia Pacific |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | Global Geography 2 – Asia Pacific  |
 </p></details>
 
 ## Bolivia
@@ -942,9 +890,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Global Geography 3 – Americas |
 | Viva Learning | Global Geography 3 – Americas |
 | Viva Insights - Personal | Global Geography 3 – Americas |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 3 – Americas |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | United States |
 </p></details>
 
 ## Bonaire
@@ -970,9 +916,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Global Geography 3 – Americas |
 | Viva Learning | Global Geography 3 – Americas |
 | Viva Insights - Personal | Global Geography 3 – Americas |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 3 – Americas |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | United States |
 </p></details>
 
 ## Bosnia and Herzegovina
@@ -998,9 +942,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Global Geography 1 – EMEA |
 | Viva Learning | Global Geography 1 – EMEA |
 | Viva Insights - Personal | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | Global Geography 1 – EMEA |
 </p></details>
 
 ## Botswana
@@ -1026,9 +968,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Global Geography 1 – EMEA |
 | Viva Learning | Global Geography 1 – EMEA |
 | Viva Insights - Personal | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | Global Geography 1 – EMEA |
 </p></details>
 
 ## Bouvet Island
@@ -1054,9 +994,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | United States |
 | Viva Learning | United States |
 | Viva Insights - Personal | United States |
-| Viva Insights - Manager/Leader AAD org data only | United States |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | United States |
 </p></details>
 
 ## Brazil
@@ -1082,9 +1020,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Brazil |
 | Viva Learning | Global Geography 3 – Americas |
 | Viva Insights - Personal | Brazil |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 3 – Americas |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | United States |
 </p></details>
 
 ## British Indian Ocean Territory
@@ -1110,9 +1046,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Global Geography 2 – Asia Pacific |
 | Viva Learning | Global Geography 2 – Asia Pacific |
 | Viva Insights - Personal | Global Geography 2 – Asia Pacific |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 2 – Asia Pacific |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | Global Geography 2 – Asia Pacific |
 </p></details>
 
 ## British Virgin Islands
@@ -1138,9 +1072,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | United States |
 | Viva Learning | United States |
 | Viva Insights - Personal | United States |
-| Viva Insights - Manager/Leader AAD org data only | United States |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | United States |
 </p></details>
 
 ## Brunei
@@ -1166,9 +1098,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Global Geography 2 – Asia Pacific |
 | Viva Learning | Global Geography 2 – Asia Pacific |
 | Viva Insights - Personal | Global Geography 2 – Asia Pacific |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 2 – Asia Pacific |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | Global Geography 2 – Asia Pacific |
 </p></details>
 
 ## Bulgaria
@@ -1194,9 +1124,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | European Union |
 | Viva Learning | European Union |
 | Viva Insights - Personal | European Union |
-| Viva Insights - Manager/Leader AAD org data only | European Union |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | European Union |
 </p></details>
 
 ## Burkina Faso
@@ -1222,9 +1150,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Global Geography 1 – EMEA |
 | Viva Learning | Global Geography 1 – EMEA |
 | Viva Insights - Personal | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | Global Geography 1 – EMEA |
 </p></details>
 
 ## Burundi
@@ -1250,9 +1176,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Global Geography 1 – EMEA |
 | Viva Learning | Global Geography 1 – EMEA |
 | Viva Insights - Personal | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | Global Geography 1 – EMEA |
 </p></details>
 
 ## Cambodia
@@ -1278,9 +1202,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Global Geography 2 – Asia Pacific |
 | Viva Learning | Global Geography 2 – Asia Pacific |
 | Viva Insights - Personal | Global Geography 2 – Asia Pacific |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 2 – Asia Pacific |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | Global Geography 2 – Asia Pacific |
 </p></details>
 
 ## Cameroon
@@ -1306,9 +1228,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Global Geography 1 – EMEA |
 | Viva Learning | Global Geography 1 – EMEA |
 | Viva Insights - Personal | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | Global Geography 1 – EMEA |
 </p></details>
 
 ## Canada
@@ -1334,9 +1254,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Canada |
 | Viva Learning | United States |
 | Viva Insights - Personal | Canada |
-| Viva Insights - Manager/Leader AAD org data only | United States |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | United States |
 </p></details>
 
 ## Cape Verde
@@ -1362,9 +1280,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Global Geography 1 – EMEA |
 | Viva Learning | Global Geography 1 – EMEA |
 | Viva Insights - Personal | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | Global Geography 1 – EMEA |
 </p></details>
 
 ## Cayman Islands
@@ -1390,9 +1306,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | United States |
 | Viva Learning | United States |
 | Viva Insights - Personal | United States |
-| Viva Insights - Manager/Leader AAD org data only | United States |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | United States |
 </p></details>
 
 ## Central African Republic
@@ -1418,9 +1332,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Global Geography 1 – EMEA |
 | Viva Learning | Global Geography 1 – EMEA |
 | Viva Insights - Personal | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | Global Geography 1 – EMEA |
 </p></details>
 
 ## Chad
@@ -1446,9 +1358,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Global Geography 1 – EMEA |
 | Viva Learning | Global Geography 1 – EMEA |
 | Viva Insights - Personal | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | Global Geography 1 – EMEA |
 </p></details>
 
 ## Chile
@@ -1474,9 +1384,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Global Geography 3 – Americas |
 | Viva Learning | Global Geography 3 – Americas |
 | Viva Insights - Personal | Global Geography 3 – Americas |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 3 – Americas |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | United States |
 </p></details>
 
 ## China
@@ -1502,9 +1410,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Global Geography 2 – Asia Pacific |
 | Viva Learning | Global Geography 2 – Asia Pacific |
 | Viva Insights - Personal | Global Geography 2 – Asia Pacific |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 2 – Asia Pacific |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | Global Geography 2 – Asia Pacific |
 </p></details>
 
 ## Christmas Island
@@ -1530,9 +1436,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Global Geography 2 – Asia Pacific |
 | Viva Learning | Global Geography 2 – Asia Pacific |
 | Viva Insights - Personal | Global Geography 2 – Asia Pacific |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 2 – Asia Pacific |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | Global Geography 2 – Asia Pacific |
 </p></details>
 
 ## Cocos (Keeling) Islands
@@ -1558,9 +1462,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Global Geography 2 – Asia Pacific |
 | Viva Learning | Global Geography 2 – Asia Pacific |
 | Viva Insights - Personal | Global Geography 2 – Asia Pacific |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 2 – Asia Pacific |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | Global Geography 2 – Asia Pacific |
 </p></details>
 
 ## Colombia
@@ -1586,9 +1488,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | United States |
 | Viva Learning | United States |
 | Viva Insights - Personal | United States |
-| Viva Insights - Manager/Leader AAD org data only | United States |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | United States |
 </p></details>
 
 ## Comoros
@@ -1614,9 +1514,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Global Geography 1 – EMEA |
 | Viva Learning | Global Geography 1 – EMEA |
 | Viva Insights - Personal | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | Global Geography 1 – EMEA |
 </p></details>
 
 ## Congo (Brazzaville)
@@ -1642,9 +1540,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Global Geography 1 – EMEA |
 | Viva Learning | Global Geography 1 – EMEA |
 | Viva Insights - Personal | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | Global Geography 1 – EMEA |
 </p></details>
 
 ## Congo, (Kinshasa)
@@ -1670,9 +1566,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Global Geography 1 – EMEA |
 | Viva Learning | Global Geography 1 – EMEA |
 | Viva Insights - Personal | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | Global Geography 1 – EMEA |
 </p></details>
 
 ## Cook Islands
@@ -1698,9 +1592,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Global Geography 2 – Asia Pacific |
 | Viva Learning | Global Geography 2 – Asia Pacific |
 | Viva Insights - Personal | Global Geography 2 – Asia Pacific |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 2 – Asia Pacific |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | Global Geography 2 – Asia Pacific |
 </p></details>
 
 ## Costa Rica
@@ -1726,9 +1618,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | United States |
 | Viva Learning | United States |
 | Viva Insights - Personal | United States |
-| Viva Insights - Manager/Leader AAD org data only | United States |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | United States |
 </p></details>
 
 ## Cote D'Ivoire
@@ -1754,9 +1644,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Global Geography 1 – EMEA |
 | Viva Learning | Global Geography 1 – EMEA |
 | Viva Insights - Personal | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | Global Geography 1 – EMEA |
 </p></details>
 
 ## Croatia
@@ -1782,9 +1670,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | European Union |
 | Viva Learning | European Union |
 | Viva Insights - Personal | European Union |
-| Viva Insights - Manager/Leader AAD org data only | European Union |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | European Union |
 </p></details>
 
 ## Curacao
@@ -1810,9 +1696,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Global Geography 3 – Americas |
 | Viva Learning | Global Geography 3 – Americas |
 | Viva Insights - Personal | Global Geography 3 – Americas |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 3 – Americas |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | United States |
 </p></details>
 
 ## Cyprus
@@ -1838,9 +1722,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | European Union |
 | Viva Learning | European Union |
 | Viva Insights - Personal | European Union |
-| Viva Insights - Manager/Leader AAD org data only | European Union |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | European Union |
 </p></details>
 
 ## Czech Republic
@@ -1866,9 +1748,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | European Union |
 | Viva Learning | European Union |
 | Viva Insights - Personal | European Union |
-| Viva Insights - Manager/Leader AAD org data only | European Union |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | European Union |
 </p></details>
 
 ## Denmark
@@ -1894,9 +1774,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | European Union |
 | Viva Learning | European Union |
 | Viva Insights - Personal | European Union |
-| Viva Insights - Manager/Leader AAD org data only | European Union |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | European Union |
 </p></details>
 
 ## Djibouti
@@ -1922,9 +1800,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Global Geography 1 – EMEA |
 | Viva Learning | Global Geography 1 – EMEA |
 | Viva Insights - Personal | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | Global Geography 1 – EMEA |
 </p></details>
 
 ## Dominica
@@ -1950,9 +1826,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | United States |
 | Viva Learning | United States |
 | Viva Insights - Personal | United States |
-| Viva Insights - Manager/Leader AAD org data only | United States |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | United States |
 </p></details>
 
 ## Dominican Republic
@@ -1978,9 +1852,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | United States |
 | Viva Learning | United States |
 | Viva Insights - Personal | United States |
-| Viva Insights - Manager/Leader AAD org data only | United States |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | United States |
 </p></details>
 
 ## Ecuador
@@ -2006,9 +1878,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Global Geography 3 – Americas |
 | Viva Learning | Global Geography 3 – Americas |
 | Viva Insights - Personal | Global Geography 3 – Americas |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 3 – Americas |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | United States |
 </p></details>
 
 ## Egypt
@@ -2034,9 +1904,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Global Geography 1 – EMEA |
 | Viva Learning | Global Geography 1 – EMEA |
 | Viva Insights - Personal | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | Global Geography 1 – EMEA |
 </p></details>
 
 ## El Salvador
@@ -2062,9 +1930,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | United States |
 | Viva Learning | United States |
 | Viva Insights - Personal | United States |
-| Viva Insights - Manager/Leader AAD org data only | United States |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | United States |
 </p></details>
 
 ## Equatorial Guinea
@@ -2090,9 +1956,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Global Geography 1 – EMEA |
 | Viva Learning | Global Geography 1 – EMEA |
 | Viva Insights - Personal | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | Global Geography 1 – EMEA |
 </p></details>
 
 ## Eritrea
@@ -2118,9 +1982,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Global Geography 1 – EMEA |
 | Viva Learning | Global Geography 1 – EMEA |
 | Viva Insights - Personal | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | Global Geography 1 – EMEA |
 </p></details>
 
 ## Estonia
@@ -2146,9 +2008,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | European Union |
 | Viva Learning | European Union |
 | Viva Insights - Personal | European Union |
-| Viva Insights - Manager/Leader AAD org data only | European Union |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | European Union |
 </p></details>
 
 ## Ethiopia
@@ -2174,9 +2034,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Global Geography 1 – EMEA |
 | Viva Learning | Global Geography 1 – EMEA |
 | Viva Insights - Personal | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | Global Geography 1 – EMEA |
 </p></details>
 
 ## Falkland Islands (Malvinas)
@@ -2202,9 +2060,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Global Geography 3 – Americas |
 | Viva Learning | Global Geography 3 – Americas |
 | Viva Insights - Personal | Global Geography 3 – Americas |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 3 – Americas |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | United States |
 </p></details>
 
 ## Faroe Islands
@@ -2230,9 +2086,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Global Geography 1 – EMEA |
 | Viva Learning | Global Geography 1 – EMEA |
 | Viva Insights - Personal | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | Global Geography 1 – EMEA |
 </p></details>
 
 ## Federated States of Micronesia
@@ -2258,9 +2112,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Global Geography 2 – Asia Pacific |
 | Viva Learning | Global Geography 2 – Asia Pacific |
 | Viva Insights - Personal | Global Geography 2 – Asia Pacific |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 2 – Asia Pacific |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced |  |
 </p></details>
 
 ## Fiji
@@ -2286,9 +2138,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Australia |
 | Viva Learning | Global Geography 2 – Asia Pacific |
 | Viva Insights - Personal | Australia |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 2 – Asia Pacific |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | Global Geography 2 – Asia Pacific |
 </p></details>
 
 ## Finland
@@ -2314,9 +2164,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | European Union |
 | Viva Learning | European Union |
 | Viva Insights - Personal | European Union |
-| Viva Insights - Manager/Leader AAD org data only | European Union |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | European Union |
 </p></details>
 
 ## France
@@ -2342,9 +2190,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | France |
 | Viva Learning | European Union |
 | Viva Insights - Personal | France |
-| Viva Insights - Manager/Leader AAD org data only | European Union |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | European Union |
 </p></details>
 
 ## French Guiana
@@ -2370,9 +2216,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Global Geography 3 – Americas |
 | Viva Learning | Global Geography 3 – Americas |
 | Viva Insights - Personal | Global Geography 3 – Americas |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 3 – Americas |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | United States |
 </p></details>
 
 ## French Polynesia
@@ -2398,9 +2242,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Global Geography 2 – Asia Pacific |
 | Viva Learning | Global Geography 2 – Asia Pacific |
 | Viva Insights - Personal | Global Geography 2 – Asia Pacific |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 2 – Asia Pacific |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | Global Geography 2 – Asia Pacific |
 </p></details>
 
 ## French Southern Territories
@@ -2426,9 +2268,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | United States |
 | Viva Learning | United States |
 | Viva Insights - Personal | United States |
-| Viva Insights - Manager/Leader AAD org data only | United States |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | United States |
 </p></details>
 
 ## Gabon
@@ -2454,9 +2294,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Global Geography 1 – EMEA |
 | Viva Learning | Global Geography 1 – EMEA |
 | Viva Insights - Personal | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | Global Geography 1 – EMEA |
 </p></details>
 
 ## Gambia
@@ -2482,9 +2320,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Global Geography 1 – EMEA |
 | Viva Learning | Global Geography 1 – EMEA |
 | Viva Insights - Personal | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | Global Geography 1 – EMEA |
 </p></details>
 
 ## Georgia
@@ -2510,9 +2346,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Global Geography 1 – EMEA |
 | Viva Learning | Global Geography 1 – EMEA |
 | Viva Insights - Personal | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | Global Geography 1 – EMEA |
 </p></details>
 
 ## Germany
@@ -2538,9 +2372,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Germany |
 | Viva Learning | European Union |
 | Viva Insights - Personal | Germany |
-| Viva Insights - Manager/Leader AAD org data only | European Union |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | European Union |
 </p></details>
 
 ## Ghana
@@ -2566,9 +2398,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Global Geography 1 – EMEA |
 | Viva Learning | Global Geography 1 – EMEA |
 | Viva Insights - Personal | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | Global Geography 1 – EMEA |
 </p></details>
 
 ## Gibraltar
@@ -2594,9 +2424,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Global Geography 1 – EMEA |
 | Viva Learning | Global Geography 1 – EMEA |
 | Viva Insights - Personal | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | Global Geography 1 – EMEA |
 </p></details>
 
 ## Greece
@@ -2622,9 +2450,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | European Union |
 | Viva Learning | European Union |
 | Viva Insights - Personal | European Union |
-| Viva Insights - Manager/Leader AAD org data only | European Union |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | European Union |
 </p></details>
 
 ## Greenland
@@ -2650,9 +2476,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | United States |
 | Viva Learning | United States |
 | Viva Insights - Personal | United States |
-| Viva Insights - Manager/Leader AAD org data only | United States |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | United States |
 </p></details>
 
 ## Grenada
@@ -2678,9 +2502,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | United States |
 | Viva Learning | United States |
 | Viva Insights - Personal | United States |
-| Viva Insights - Manager/Leader AAD org data only | United States |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | United States |
 </p></details>
 
 ## Guadeloupe
@@ -2706,9 +2528,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | United States |
 | Viva Learning | United States |
 | Viva Insights - Personal | United States |
-| Viva Insights - Manager/Leader AAD org data only | United States |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | United States |
 </p></details>
 
 ## Guam
@@ -2734,9 +2554,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Global Geography 2 – Asia Pacific |
 | Viva Learning | Global Geography 2 – Asia Pacific |
 | Viva Insights - Personal | Global Geography 2 – Asia Pacific |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 2 – Asia Pacific |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | Global Geography 2 – Asia Pacific |
 </p></details>
 
 ## Guatemala
@@ -2762,9 +2580,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | United States |
 | Viva Learning | United States |
 | Viva Insights - Personal | United States |
-| Viva Insights - Manager/Leader AAD org data only | United States |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | United States |
 </p></details>
 
 ## Guernsey
@@ -2790,9 +2606,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Global Geography 1 – EMEA |
 | Viva Learning | Global Geography 1 – EMEA |
 | Viva Insights - Personal | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | Global Geography 1 – EMEA |
 </p></details>
 
 ## Guinea
@@ -2818,9 +2632,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Global Geography 1 – EMEA |
 | Viva Learning | Global Geography 1 – EMEA |
 | Viva Insights - Personal | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | Global Geography 1 – EMEA |
 </p></details>
 
 ## Guinea-Bissau
@@ -2846,9 +2658,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Global Geography 1 – EMEA |
 | Viva Learning | Global Geography 1 – EMEA |
 | Viva Insights - Personal | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | Global Geography 1 – EMEA |
 </p></details>
 
 ## Guyana
@@ -2874,9 +2684,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Global Geography 3 – Americas |
 | Viva Learning | Global Geography 3 – Americas |
 | Viva Insights - Personal | Global Geography 3 – Americas |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 3 – Americas |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | United States |
 </p></details>
 
 ## Haiti
@@ -2902,9 +2710,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | United States |
 | Viva Learning | United States |
 | Viva Insights - Personal | United States |
-| Viva Insights - Manager/Leader AAD org data only | United States |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | United States |
 </p></details>
 
 ## Heard and McDonald Islands
@@ -2930,9 +2736,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | United States |
 | Viva Learning | United States |
 | Viva Insights - Personal | United States |
-| Viva Insights - Manager/Leader AAD org data only | United States |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | United States |
 </p></details>
 
 ## Herzegovina
@@ -2958,9 +2762,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Global Geography 1 – EMEA |
 | Viva Learning | Global Geography 1 – EMEA |
 | Viva Insights - Personal | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced |  |
 </p></details>
 
 ## Holy See (Vatican City State)
@@ -2986,9 +2788,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Global Geography 1 – EMEA |
 | Viva Learning | Global Geography 1 – EMEA |
 | Viva Insights - Personal | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | Global Geography 1 – EMEA |
 </p></details>
 
 ## Honduras
@@ -3014,9 +2814,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | United States |
 | Viva Learning | United States |
 | Viva Insights - Personal | United States |
-| Viva Insights - Manager/Leader AAD org data only | United States |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | United States |
 </p></details>
 
 ## Hong Kong SAR
@@ -3042,9 +2840,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Global Geography 2 – Asia Pacific |
 | Viva Learning | Global Geography 2 – Asia Pacific |
 | Viva Insights - Personal | Global Geography 2 – Asia Pacific |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 2 – Asia Pacific |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | Global Geography 2 – Asia Pacific |
 </p></details>
 
 ## Hungary
@@ -3070,9 +2866,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | European Union |
 | Viva Learning | European Union |
 | Viva Insights - Personal | European Union |
-| Viva Insights - Manager/Leader AAD org data only | European Union |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | European Union |
 </p></details>
 
 ## Iceland
@@ -3098,9 +2892,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Global Geography 1 – EMEA |
 | Viva Learning | Global Geography 1 – EMEA |
 | Viva Insights - Personal | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | European Union |
 </p></details>
 
 ## India
@@ -3126,9 +2918,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | India |
 | Viva Learning | Global Geography 2 – Asia Pacific |
 | Viva Insights - Personal | India |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 2 – Asia Pacific |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | Global Geography 2 – Asia Pacific |
 </p></details>
 
 ## Indonesia
@@ -3154,9 +2944,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Global Geography 2 – Asia Pacific |
 | Viva Learning | Global Geography 2 – Asia Pacific |
 | Viva Insights - Personal | Global Geography 2 – Asia Pacific |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 2 – Asia Pacific |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | Global Geography 2 – Asia Pacific |
 </p></details>
 
 ## Iraq
@@ -3182,9 +2970,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Global Geography 1 – EMEA |
 | Viva Learning | Global Geography 1 – EMEA |
 | Viva Insights - Personal | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | Global Geography 1 – EMEA |
 </p></details>
 
 ## Ireland
@@ -3210,9 +2996,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | European Union |
 | Viva Learning | European Union |
 | Viva Insights - Personal | European Union |
-| Viva Insights - Manager/Leader AAD org data only | European Union |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | European Union |
 </p></details>
 
 ## Isle of Man
@@ -3238,9 +3022,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Global Geography 1 – EMEA |
 | Viva Learning | Global Geography 1 – EMEA |
 | Viva Insights - Personal | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | Global Geography 1 – EMEA |
 </p></details>
 
 ## Israel
@@ -3266,9 +3048,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Global Geography 1 – EMEA |
 | Viva Learning | Global Geography 1 – EMEA |
 | Viva Insights - Personal | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | Global Geography 1 – EMEA |
 </p></details>
 
 ## Italy
@@ -3294,9 +3074,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | European Union |
 | Viva Learning | European Union |
 | Viva Insights - Personal | European Union |
-| Viva Insights - Manager/Leader AAD org data only | European Union |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | European Union |
 </p></details>
 
 ## Jamaica
@@ -3322,9 +3100,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | United States |
 | Viva Learning | United States |
 | Viva Insights - Personal | United States |
-| Viva Insights - Manager/Leader AAD org data only | United States |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | United States |
 </p></details>
 
 ## Japan
@@ -3350,9 +3126,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Japan |
 | Viva Learning | Global Geography 2 – Asia Pacific |
 | Viva Insights - Personal | Japan |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 2 – Asia Pacific |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | Global Geography 2 – Asia Pacific |
 </p></details>
 
 ## Jersey
@@ -3378,9 +3152,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Global Geography 1 – EMEA |
 | Viva Learning | Global Geography 1 – EMEA |
 | Viva Insights - Personal | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | Global Geography 1 – EMEA |
 </p></details>
 
 ## Jordan
@@ -3406,9 +3178,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Global Geography 1 – EMEA |
 | Viva Learning | Global Geography 1 – EMEA |
 | Viva Insights - Personal | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | Global Geography 1 – EMEA |
 </p></details>
 
 ## Kazakhstan
@@ -3434,9 +3204,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Global Geography 1 – EMEA |
 | Viva Learning | Global Geography 1 – EMEA |
 | Viva Insights - Personal | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | Global Geography 1 – EMEA |
 </p></details>
 
 ## Kenya
@@ -3462,9 +3230,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Global Geography 1 – EMEA |
 | Viva Learning | Global Geography 1 – EMEA |
 | Viva Insights - Personal | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | Global Geography 1 – EMEA |
 </p></details>
 
 ## Kiribati
@@ -3490,9 +3256,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Global Geography 2 – Asia Pacific |
 | Viva Learning | Global Geography 2 – Asia Pacific |
 | Viva Insights - Personal | Global Geography 2 – Asia Pacific |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 2 – Asia Pacific |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | Global Geography 2 – Asia Pacific |
 </p></details>
 
 ## South Korea
@@ -3518,9 +3282,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | South Korea |
 | Viva Learning | Global Geography 2 – Asia Pacific |
 | Viva Insights - Personal | South Korea |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 2 – Asia Pacific |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | Global Geography 2 – Asia Pacific |
 </p></details>
 
 ## Kosovo
@@ -3546,9 +3308,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Global Geography 1 – EMEA |
 | Viva Learning | Global Geography 1 – EMEA |
 | Viva Insights - Personal | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | Global Geography 1 – EMEA |
 </p></details>
 
 ## Kuwait
@@ -3574,9 +3334,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Global Geography 1 – EMEA |
 | Viva Learning | Global Geography 1 – EMEA |
 | Viva Insights - Personal | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | Global Geography 1 – EMEA |
 </p></details>
 
 ## Kyrgyzstan
@@ -3602,9 +3360,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Global Geography 1 – EMEA |
 | Viva Learning | Global Geography 1 – EMEA |
 | Viva Insights - Personal | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | Global Geography 1 – EMEA |
 </p></details>
 
 ## Laos
@@ -3630,9 +3386,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Global Geography 2 – Asia Pacific |
 | Viva Learning | Global Geography 2 – Asia Pacific |
 | Viva Insights - Personal | Global Geography 2 – Asia Pacific |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 2 – Asia Pacific |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | Global Geography 2 – Asia Pacific |
 </p></details>
 
 ## Latvia
@@ -3658,9 +3412,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | European Union |
 | Viva Learning | European Union |
 | Viva Insights - Personal | European Union |
-| Viva Insights - Manager/Leader AAD org data only | European Union |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | European Union |
 </p></details>
 
 ## Lebanon
@@ -3686,9 +3438,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Global Geography 1 – EMEA |
 | Viva Learning | Global Geography 1 – EMEA |
 | Viva Insights - Personal | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | Global Geography 1 – EMEA |
 </p></details>
 
 ## Lesotho
@@ -3714,9 +3464,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Global Geography 1 – EMEA |
 | Viva Learning | Global Geography 1 – EMEA |
 | Viva Insights - Personal | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | Global Geography 1 – EMEA |
 </p></details>
 
 ## Liberia
@@ -3742,9 +3490,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Global Geography 1 – EMEA |
 | Viva Learning | Global Geography 1 – EMEA |
 | Viva Insights - Personal | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | Global Geography 1 – EMEA |
 </p></details>
 
 ## Libya
@@ -3770,9 +3516,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Global Geography 1 – EMEA |
 | Viva Learning | Global Geography 1 – EMEA |
 | Viva Insights - Personal | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | Global Geography 1 – EMEA  |
 </p></details>
 
 ## Liechtenstein
@@ -3798,9 +3542,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Switzerland |
 | Viva Learning | European Union |
 | Viva Insights - Personal | Switzerland |
-| Viva Insights - Manager/Leader AAD org data only | European Union |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | European Union |
 </p></details>
 
 ## Lithuania
@@ -3826,9 +3568,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | European Union |
 | Viva Learning | European Union |
 | Viva Insights - Personal | European Union |
-| Viva Insights - Manager/Leader AAD org data only | European Union |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | European Union |
 </p></details>
 
 ## Luxembourg
@@ -3854,9 +3594,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | European Union |
 | Viva Learning | European Union |
 | Viva Insights - Personal | European Union |
-| Viva Insights - Manager/Leader AAD org data only | European Union |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | European Union |
 </p></details>
 
 ## Madagascar
@@ -3882,9 +3620,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Global Geography 1 – EMEA |
 | Viva Learning | Global Geography 1 – EMEA |
 | Viva Insights - Personal | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | Global Geography 1 – EMEA |
 </p></details>
 
 ## Malawi
@@ -3910,9 +3646,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Global Geography 1 – EMEA |
 | Viva Learning | Global Geography 1 – EMEA |
 | Viva Insights - Personal | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | Global Geography 1 – EMEA |
 </p></details>
 
 ## Malaysia
@@ -3938,9 +3672,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Global Geography 2 – Asia Pacific |
 | Viva Learning | Global Geography 2 – Asia Pacific |
 | Viva Insights - Personal | Global Geography 2 – Asia Pacific |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 2 – Asia Pacific |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | Global Geography 2 – Asia Pacific |
 </p></details>
 
 ## Maldives
@@ -3966,9 +3698,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Global Geography 2 – Asia Pacific |
 | Viva Learning | Global Geography 2 – Asia Pacific |
 | Viva Insights - Personal | Global Geography 2 – Asia Pacific |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 2 – Asia Pacific |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | Global Geography 2 – Asia Pacific |
 </p></details>
 
 ## Mali
@@ -3994,9 +3724,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Global Geography 1 – EMEA |
 | Viva Learning | Global Geography 1 – EMEA |
 | Viva Insights - Personal | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | Global Geography 1 – EMEA |
 </p></details>
 
 ## Malta
@@ -4022,9 +3750,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | European Union |
 | Viva Learning | European Union |
 | Viva Insights - Personal | European Union |
-| Viva Insights - Manager/Leader AAD org data only | European Union |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | European Union |
 </p></details>
 
 ## Marshall Islands
@@ -4050,9 +3776,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Global Geography 2 – Asia Pacific |
 | Viva Learning | Global Geography 2 – Asia Pacific |
 | Viva Insights - Personal | Global Geography 2 – Asia Pacific |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 2 – Asia Pacific |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | Global Geography 2 – Asia Pacific |
 </p></details>
 
 ## Martinique
@@ -4078,9 +3802,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | United States |
 | Viva Learning | United States |
 | Viva Insights - Personal | United States |
-| Viva Insights - Manager/Leader AAD org data only | United States |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | United States |
 </p></details>
 
 ## Mauritania
@@ -4106,9 +3828,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Global Geography 1 – EMEA |
 | Viva Learning | Global Geography 1 – EMEA |
 | Viva Insights - Personal | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | Global Geography 1 – EMEA |
 </p></details>
 
 ## Mauritius
@@ -4134,9 +3854,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Global Geography 1 – EMEA |
 | Viva Learning | Global Geography 1 – EMEA |
 | Viva Insights - Personal | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | Global Geography 1 – EMEA |
 </p></details>
 
 ## Mayotte
@@ -4162,9 +3880,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Global Geography 1 – EMEA |
 | Viva Learning | Global Geography 1 – EMEA |
 | Viva Insights - Personal | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | Global Geography 1 – EMEA |
 </p></details>
 
 ## Mexico
@@ -4190,9 +3906,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | United States |
 | Viva Learning | United States |
 | Viva Insights - Personal | United States |
-| Viva Insights - Manager/Leader AAD org data only | United States |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | United States |
 </p></details>
 
 ## Moldova
@@ -4218,9 +3932,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Global Geography 1 – EMEA |
 | Viva Learning | Global Geography 1 – EMEA |
 | Viva Insights - Personal | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced |  |
 </p></details>
 
 ## Monaco
@@ -4246,9 +3958,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Global Geography 1 – EMEA |
 | Viva Learning | Global Geography 1 – EMEA |
 | Viva Insights - Personal | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | Global Geography 1 – EMEA |
 </p></details>
 
 ## Mongolia
@@ -4274,9 +3984,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Global Geography 2 – Asia Pacific |
 | Viva Learning | Global Geography 2 – Asia Pacific |
 | Viva Insights - Personal | Global Geography 2 – Asia Pacific |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 2 – Asia Pacific |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | Global Geography 2 – Asia Pacific |
 </p></details>
 
 ## Montenegro
@@ -4302,9 +4010,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Global Geography 1 – EMEA |
 | Viva Learning | Global Geography 1 – EMEA |
 | Viva Insights - Personal | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | Global Geography 1 – EMEA |
 </p></details>
 
 ## Montserrat
@@ -4330,9 +4036,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | United States |
 | Viva Learning | United States |
 | Viva Insights - Personal | United States |
-| Viva Insights - Manager/Leader AAD org data only | United States |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | United States |
 </p></details>
 
 ## Morocco
@@ -4358,9 +4062,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Global Geography 1 – EMEA |
 | Viva Learning | Global Geography 1 – EMEA |
 | Viva Insights - Personal | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | Global Geography 1 – EMEA |
 </p></details>
 
 ## Mozambique
@@ -4386,9 +4088,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Global Geography 1 – EMEA |
 | Viva Learning | Global Geography 1 – EMEA |
 | Viva Insights - Personal | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | Global Geography 1 – EMEA |
 </p></details>
 
 ## Myanmar
@@ -4414,9 +4114,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Global Geography 2 – Asia Pacific |
 | Viva Learning | Global Geography 2 – Asia Pacific |
 | Viva Insights - Personal | Global Geography 2 – Asia Pacific |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 2 – Asia Pacific |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | Global Geography 2 – Asia Pacific |
 </p></details>
 
 ## Namibia
@@ -4442,9 +4140,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Global Geography 1 – EMEA |
 | Viva Learning | Global Geography 1 – EMEA |
 | Viva Insights - Personal | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | Global Geography 1 – EMEA |
 </p></details>
 
 ## Nauru
@@ -4470,9 +4166,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Global Geography 2 – Asia Pacific |
 | Viva Learning | Global Geography 2 – Asia Pacific |
 | Viva Insights - Personal | Global Geography 2 – Asia Pacific |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 2 – Asia Pacific |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | Global Geography 2 – Asia Pacific |
 </p></details>
 
 ## Nepal
@@ -4498,9 +4192,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Global Geography 2 – Asia Pacific |
 | Viva Learning | Global Geography 2 – Asia Pacific |
 | Viva Insights - Personal | Global Geography 2 – Asia Pacific |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 2 – Asia Pacific |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | Global Geography 2 – Asia Pacific |
 </p></details>
 
 ## Netherlands
@@ -4526,9 +4218,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | European Union |
 | Viva Learning | European Union |
 | Viva Insights - Personal | European Union |
-| Viva Insights - Manager/Leader AAD org data only | European Union |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | European Union |
 </p></details>
 
 ## Netherlands Antilles
@@ -4554,9 +4244,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | United States |
 | Viva Learning | United States |
 | Viva Insights - Personal | United States |
-| Viva Insights - Manager/Leader AAD org data only | United States |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | United States |
 </p></details>
 
 ## New Caledonia
@@ -4582,9 +4270,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Global Geography 2 – Asia Pacific |
 | Viva Learning | Global Geography 2 – Asia Pacific |
 | Viva Insights - Personal | Global Geography 2 – Asia Pacific |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 2 – Asia Pacific |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | Global Geography 2 – Asia Pacific |
 </p></details>
 
 ## New Zealand
@@ -4610,9 +4296,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Australia |
 | Viva Learning | Global Geography 2 – Asia Pacific |
 | Viva Insights - Personal | Australia |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 2 – Asia Pacific |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | Global Geography 2 – Asia Pacific |
 </p></details>
 
 ## Nicaragua
@@ -4638,9 +4322,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | United States |
 | Viva Learning | United States |
 | Viva Insights - Personal | United States |
-| Viva Insights - Manager/Leader AAD org data only | United States |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | United States |
 </p></details>
 
 ## Niger
@@ -4666,9 +4348,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Global Geography 1 – EMEA |
 | Viva Learning | Global Geography 1 – EMEA |
 | Viva Insights - Personal | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | Global Geography 1 – EMEA |
 </p></details>
 
 ## Nigeria
@@ -4694,9 +4374,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Global Geography 1 – EMEA |
 | Viva Learning | Global Geography 1 – EMEA |
 | Viva Insights - Personal | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | Global Geography 1 – EMEA |
 </p></details>
 
 ## Niue
@@ -4722,9 +4400,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Global Geography 2 – Asia Pacific |
 | Viva Learning | Global Geography 2 – Asia Pacific |
 | Viva Insights - Personal | Global Geography 2 – Asia Pacific |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 2 – Asia Pacific |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | Global Geography 2 – Asia Pacific |
 </p></details>
 
 ## Norfolk Island
@@ -4750,9 +4426,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Global Geography 2 – Asia Pacific |
 | Viva Learning | Global Geography 2 – Asia Pacific |
 | Viva Insights - Personal | Global Geography 2 – Asia Pacific |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 2 – Asia Pacific |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | Global Geography 2 – Asia Pacific |
 </p></details>
 
 ## Northern Mariana Islands
@@ -4778,9 +4452,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Global Geography 2 – Asia Pacific |
 | Viva Learning | Global Geography 2 – Asia Pacific |
 | Viva Insights - Personal | Global Geography 2 – Asia Pacific |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 2 – Asia Pacific |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | Global Geography 2 – Asia Pacific |
 </p></details>
 
 ## Norway
@@ -4806,9 +4478,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Norway |
 | Viva Learning | Global Geography 1 – EMEA |
 | Viva Insights - Personal | Norway |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | European Union |
 
 </p></details>
 
@@ -4835,9 +4505,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Global Geography 1 – EMEA |
 | Viva Learning | Global Geography 1 – EMEA |
 | Viva Insights - Personal | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | Global Geography 1 – EMEA |
 </p></details>
 
 ## Pakistan
@@ -4863,9 +4531,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Global Geography 1 – EMEA |
 | Viva Learning | Global Geography 1 – EMEA |
 | Viva Insights - Personal | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | Global Geography 1 – EMEA |
 </p></details>
 
 ## Palau
@@ -4891,9 +4557,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Global Geography 2 – Asia Pacific |
 | Viva Learning | Global Geography 2 – Asia Pacific |
 | Viva Insights - Personal | Global Geography 2 – Asia Pacific |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 2 – Asia Pacific |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | Global Geography 2 – Asia Pacific |
 </p></details>
 
 ## Palestinian Authority
@@ -4919,9 +4583,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Global Geography 2 – Asia Pacific |
 | Viva Learning | Global Geography 2 – Asia Pacific |
 | Viva Insights - Personal | Global Geography 2 – Asia Pacific |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 2 – Asia Pacific |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | Global Geography 2 – Asia Pacific |
 </p></details>
 
 ## Panama
@@ -4947,9 +4609,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | United States |
 | Viva Learning | United States |
 | Viva Insights - Personal | United States |
-| Viva Insights - Manager/Leader AAD org data only | United States |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | United States |
 </p></details>
 
 ## Papua New Guinea
@@ -4975,9 +4635,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Global Geography 2 – Asia Pacific |
 | Viva Learning | Global Geography 2 – Asia Pacific |
 | Viva Insights - Personal | Global Geography 2 – Asia Pacific |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 2 – Asia Pacific |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | Global Geography 2 – Asia Pacific |
 </p></details>
 
 ## Paraguay
@@ -5003,9 +4661,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Global Geography 3 – Americas |
 | Viva Learning | Global Geography 3 – Americas |
 | Viva Insights - Personal | Global Geography 3 – Americas |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 3 – Americas |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | United States |
 </p></details>
 
 ## Peru
@@ -5031,9 +4687,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Global Geography 3 – Americas |
 | Viva Learning | Global Geography 3 – Americas |
 | Viva Insights - Personal | Global Geography 3 – Americas |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 3 – Americas |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | United States |
 </p></details>
 
 ## Philippines
@@ -5059,9 +4713,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Global Geography 2 – Asia Pacific |
 | Viva Learning | Global Geography 2 – Asia Pacific |
 | Viva Insights - Personal | Global Geography 2 – Asia Pacific |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 2 – Asia Pacific |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | Global Geography 2 – Asia Pacific |
 </p></details>
 
 ## Pitcairn
@@ -5087,9 +4739,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Global Geography 2 – Asia Pacific |
 | Viva Learning | Global Geography 2 – Asia Pacific |
 | Viva Insights - Personal | Global Geography 2 – Asia Pacific |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 2 – Asia Pacific |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | Global Geography 2 – Asia Pacific |
 </p></details>
 
 ## Poland
@@ -5115,9 +4765,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | European Union |
 | Viva Learning | European Union |
 | Viva Insights - Personal | European Union |
-| Viva Insights - Manager/Leader AAD org data only | European Union |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | European Union |
 </p></details>
 
 ## Portugal
@@ -5143,9 +4791,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | European Union |
 | Viva Learning | European Union |
 | Viva Insights - Personal | European Union |
-| Viva Insights - Manager/Leader AAD org data only | European Union |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced  | European Union |
 </p></details>
 
 ## Puerto Rico
@@ -5171,9 +4817,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | United States |
 | Viva Learning | United States |
 | Viva Insights - Personal | United States |
-| Viva Insights - Manager/Leader AAD org data only | United States |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | United States |
 </p></details>
 
 ## Qatar
@@ -5201,7 +4845,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Planner | European Union |
 | Power Automate Desktop | European Union |
 | Power Virtual Agent for Teams | European Union |
-| Viva Insights - Mgr / Leader / Advanced | European Union |
+| Viva Insights - Manager/Leader/Advanced | Global Geography 1 - EMEA |
 | Viva learning | European Union |
 | Yammer | European Union |
 | Forms | United States |
@@ -5232,9 +4876,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Global Geography 1 – EMEA |
 | Viva Learning | Global Geography 1 – EMEA |
 | Viva Insights - Personal | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | Global Geography 1 – EMEA |
 </p></details>
 
 ## Réunion
@@ -5260,9 +4902,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Global Geography 1 – EMEA |
 | Viva Learning | Global Geography 1 – EMEA |
 | Viva Insights - Personal | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | Global Geography 1 – EMEA |
 </p></details>
 
 ## Romania
@@ -5288,9 +4928,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | European Union |
 | Viva Learning | European Union |
 | Viva Insights - Personal | European Union |
-| Viva Insights - Manager/Leader AAD org data only | European Union |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | European Union |
 </p></details>
 
 ## Russian Federation
@@ -5316,9 +4954,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Global Geography 1 – EMEA |
 | Viva Learning | Global Geography 1 – EMEA |
 | Viva Insights - Personal | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | Global Geography 1 – EMEA |
 </p></details>
 
 ## Rwanda
@@ -5344,9 +4980,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Global Geography 1 – EMEA |
 | Viva Learning | Global Geography 1 – EMEA |
 | Viva Insights - Personal | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | Global Geography 1 – EMEA |
 </p></details>
 
 ## Saint Helena
@@ -5372,9 +5006,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Global Geography 1 – EMEA |
 | Viva Learning | Global Geography 1 – EMEA |
 | Viva Insights - Personal | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | Global Geography 1 – EMEA |
 </p></details>
 
 ## Saint Kitts and Nevis
@@ -5400,9 +5032,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | United States |
 | Viva Learning | United States |
 | Viva Insights - Personal | United States |
-| Viva Insights - Manager/Leader AAD org data only | United States |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | United States |
 </p></details>
 
 ## Saint Lucia
@@ -5428,9 +5058,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | United States |
 | Viva Learning | United States |
 | Viva Insights - Personal | United States |
-| Viva Insights - Manager/Leader AAD org data only | United States |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | United States |
 </p></details>
 
 ## Saint Martin
@@ -5456,9 +5084,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | United States |
 | Viva Learning | United States |
 | Viva Insights - Personal | United States |
-| Viva Insights - Manager/Leader AAD org data only | United States |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | United States |
 </p></details>
 
 ## Saint Pierre and Miquelon
@@ -5484,9 +5110,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | United States |
 | Viva Learning | United States |
 | Viva Insights - Personal | United States |
-| Viva Insights - Manager/Leader AAD org data only | United States |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | United States |
 </p></details>
 
 ## Saint Vincent and the Grenadines
@@ -5512,9 +5136,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | United States |
 | Viva Learning | United States |
 | Viva Insights - Personal | United States |
-| Viva Insights - Manager/Leader AAD org data only | United States |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced |  |
 </p></details>
 
 ## Saint-Barthélemy
@@ -5540,9 +5162,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | United States |
 | Viva Learning | United States |
 | Viva Insights - Personal | United States |
-| Viva Insights - Manager/Leader AAD org data only | United States |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | United States |
 </p></details>
 
 ## Samoa
@@ -5568,9 +5188,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Global Geography 2 – Asia Pacific |
 | Viva Learning | Global Geography 2 – Asia Pacific |
 | Viva Insights - Personal | Global Geography 2 – Asia Pacific |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 2 – Asia Pacific |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | Global Geography 2 – Asia Pacific |
 </p></details>
 
 ## San Marino
@@ -5596,9 +5214,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Global Geography 1 – EMEA |
 | Viva Learning | Global Geography 1 – EMEA |
 | Viva Insights - Personal | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | Global Geography 1 – EMEA |
 </p></details>
 
 ## Sao Tome and Principe
@@ -5624,9 +5240,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Global Geography 1 – EMEA |
 | Viva Learning | Global Geography 1 – EMEA |
 | Viva Insights - Personal | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | Global Geography 1 – EMEA |
 </p></details>
 
 ## Saudi Arabia
@@ -5652,9 +5266,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Global Geography 1 – EMEA |
 | Viva Learning | Global Geography 1 – EMEA |
 | Viva Insights - Personal | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | Global Geography 1 – EMEA |
 </p></details>
 
 ## Senegal
@@ -5680,9 +5292,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Global Geography 1 – EMEA |
 | Viva Learning | Global Geography 1 – EMEA |
 | Viva Insights - Personal | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | Global Geography 1 – EMEA |
 </p></details>
 
 ## Serbia
@@ -5708,9 +5318,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Global Geography 1 – EMEA |
 | Viva Learning | Global Geography 1 – EMEA |
 | Viva Insights - Personal | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | Global Geography 1 – EMEA |
 </p></details>
 
 ## Seychelles
@@ -5736,9 +5344,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Global Geography 1 – EMEA |
 | Viva Learning | Global Geography 1 – EMEA |
 | Viva Insights - Personal | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | Global Geography 1 – EMEA |
 </p></details>
 
 ## Sierra Leone
@@ -5764,9 +5370,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Global Geography 1 – EMEA |
 | Viva Learning | Global Geography 1 – EMEA |
 | Viva Insights - Personal | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | Global Geography 1 – EMEA |
 </p></details>
 
 ## Singapore
@@ -5792,9 +5396,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Global Geography 2 – Asia Pacific |
 | Viva Learning | Global Geography 2 – Asia Pacific |
 | Viva Insights - Personal | Global Geography 2 – Asia Pacific |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 2 – Asia Pacific |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | Global Geography 2 – Asia Pacific |
 </p></details>
 
 ## Sint Maarten
@@ -5820,9 +5422,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | United States |
 | Viva Learning | United States |
 | Viva Insights - Personal | United States |
-| Viva Insights - Manager/Leader AAD org data only | United States |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | United States |
 </p></details>
 
 ## Slovakia
@@ -5848,9 +5448,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | European Union |
 | Viva Learning | European Union |
 | Viva Insights - Personal | European Union |
-| Viva Insights - Manager/Leader AAD org data only | European Union |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | European Union |
 </p></details>
 
 ## Slovenia
@@ -5876,9 +5474,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | European Union |
 | Viva Learning | European Union |
 | Viva Insights - Personal | European Union |
-| Viva Insights - Manager/Leader AAD org data only | European Union |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | European Union |
 </p></details>
 
 ## Solomon Islands
@@ -5904,9 +5500,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Global Geography 2 – Asia Pacific |
 | Viva Learning | Global Geography 2 – Asia Pacific |
 | Viva Insights - Personal | Global Geography 2 – Asia Pacific |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 2 – Asia Pacific |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | Global Geography 2 – Asia Pacific |
 </p></details>
 
 ## Somalia
@@ -5932,9 +5526,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Global Geography 1 – EMEA |
 | Viva Learning | Global Geography 1 – EMEA |
 | Viva Insights - Personal | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | Global Geography 1 – EMEA |
 </p></details>
 
 ## South Africa
@@ -5960,9 +5552,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | South Africa |
 | Viva Learning | Global Geography 1 – EMEA |
 | Viva Insights - Personal | South Africa |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | Global Geography 1 – EMEA |
  </p></details>
 
 ## South Georgia and the South Sandwich Islands
@@ -5988,9 +5578,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | United States |
 | Viva Learning | United States |
 | Viva Insights - Personal | United States |
-| Viva Insights - Manager/Leader AAD org data only | United States |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | United States |
 </p></details>
 
 ## Spain
@@ -6016,9 +5604,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | European Union |
 | Viva Learning | European Union |
 | Viva Insights - Personal | European Union |
-| Viva Insights - Manager/Leader AAD org data only | European Union |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | European Union |
 </p></details>
 
 ## Sri Lanka
@@ -6044,9 +5630,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Global Geography 2 – Asia Pacific |
 | Viva Learning | Global Geography 2 – Asia Pacific |
 | Viva Insights - Personal | Global Geography 2 – Asia Pacific |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 2 – Asia Pacific |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | Global Geography 2 – Asia Pacific |
 </p></details>
 
 ## Suriname
@@ -6072,9 +5656,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | United States |
 | Viva Learning | United States |
 | Viva Insights - Personal | United States |
-| Viva Insights - Manager/Leader AAD org data only | United States |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | United States |
 </p></details>
 
 ## Svalbard and Jan Mayen Islands
@@ -6100,9 +5682,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Global Geography 1 – EMEA |
 | Viva Learning | Global Geography 1 – EMEA |
 | Viva Insights - Personal | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | Global Geography 1 – EMEA |
 </p></details>
 
 ## Swaziland
@@ -6128,9 +5708,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Global Geography 1 – EMEA |
 | Viva Learning | Global Geography 1 – EMEA |
 | Viva Insights - Personal | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | Global Geography 1 – EMEA |
 </p></details>
 
 ## Sweden
@@ -6156,9 +5734,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Sweden |
 | Viva Learning | European Union |
 | Viva Insights - Personal | Sweden |
-| Viva Insights - Manager/Leader AAD org data only | European Union |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | European Union |
 </p></details>
 
 ## Switzerland
@@ -6184,9 +5760,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Switzerland |
 | Viva Learning | European Union |
 | Viva Insights - Personal | Switzerland |
-| Viva Insights - Manager/Leader AAD org data only | European Union |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | European Union |
 </p></details>
 
 ## Taiwan
@@ -6212,9 +5786,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Global Geography 2 – Asia Pacific |
 | Viva Learning | Global Geography 2 – Asia Pacific |
 | Viva Insights - Personal | Global Geography 2 – Asia Pacific |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 2 – Asia Pacific |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | Global Geography 2 – Asia Pacific |
 </p></details>
 
 ## Tajikistan
@@ -6240,9 +5812,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Global Geography 1 – EMEA |
 | Viva Learning | Global Geography 1 – EMEA |
 | Viva Insights - Personal | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | Global Geography 1 – EMEA |
 </p></details>
 
 ## United Republic of Tanzania
@@ -6268,9 +5838,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Global Geography 1 – EMEA |
 | Viva Learning | Global Geography 1 – EMEA |
 | Viva Insights - Personal | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | Global Geography 1 – EMEA |
 </p></details>
 
 ## Thailand
@@ -6296,9 +5864,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Global Geography 2 – Asia Pacific |
 | Viva Learning | Global Geography 2 – Asia Pacific |
 | Viva Insights - Personal | Global Geography 2 – Asia Pacific |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 2 – Asia Pacific |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | Global Geography 2 – Asia Pacific |
 </p></details>
 
 ## Timor-Leste
@@ -6324,9 +5890,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Global Geography 2 – Asia Pacific |
 | Viva Learning | Global Geography 2 – Asia Pacific |
 | Viva Insights - Personal | Global Geography 2 – Asia Pacific |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 2 – Asia Pacific |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | Global Geography 2 – Asia Pacific |
 </p></details>
 
 ## Togo
@@ -6352,9 +5916,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Global Geography 1 – EMEA |
 | Viva Learning | Global Geography 1 – EMEA |
 | Viva Insights - Personal | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | Global Geography 1 – EMEA |
 </p></details>
 
 ## Tokelau
@@ -6380,9 +5942,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Global Geography 2 – Asia Pacific |
 | Viva Learning | Global Geography 2 – Asia Pacific |
 | Viva Insights - Personal | Global Geography 2 – Asia Pacific |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 2 – Asia Pacific |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | Global Geography 2 – Asia Pacifi |
 </p></details>
 
 ## Tonga
@@ -6408,9 +5968,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Global Geography 2 – Asia Pacific |
 | Viva Learning | Global Geography 2 – Asia Pacific |
 | Viva Insights - Personal | Global Geography 2 – Asia Pacific |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 2 – Asia Pacific |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | Global Geography 2 – Asia Pacific |
 </p></details>
 
 ## Trinidad and Tobago
@@ -6436,9 +5994,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | United States |
 | Viva Learning | United States |
 | Viva Insights - Personal | United States |
-| Viva Insights - Manager/Leader AAD org data only | United States |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | United States |
 </p></details>
 
 ## Tunisia
@@ -6464,9 +6020,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Global Geography 1 – EMEA |
 | Viva Learning | Global Geography 1 – EMEA |
 | Viva Insights - Personal | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | Global Geography 1 – EMEA  |
 </p></details>
 
 ## Turkey
@@ -6492,9 +6046,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Global Geography 1 – EMEA |
 | Viva Learning | Global Geography 1 – EMEA |
 | Viva Insights - Personal | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | Global Geography 1 – EMEA |
 </p></details>
 
 ## Turkmenistan
@@ -6520,9 +6072,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Global Geography 1 – EMEA |
 | Viva Learning | Global Geography 1 – EMEA |
 | Viva Insights - Personal | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | Global Geography 1 – EMEA |
 </p></details>
 
 ## Turks and Caicos Islands
@@ -6548,9 +6098,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | United States |
 | Viva Learning | United States |
 | Viva Insights - Personal | United States |
-| Viva Insights - Manager/Leader AAD org data only | United States |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | United States |
 </p></details>
 
 ## Tuvalu
@@ -6576,9 +6124,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Global Geography 2 – Asia Pacific |
 | Viva Learning | Global Geography 2 – Asia Pacific |
 | Viva Insights - Personal | Global Geography 2 – Asia Pacific |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 2 – Asia Pacific |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | Global Geography 2 – Asia Pacific |
 </p></details>
 
 ## U.S. Virgin Islands
@@ -6604,9 +6150,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | United States |
 | Viva Learning | United States |
 | Viva Insights - Personal | United States |
-| Viva Insights - Manager/Leader AAD org data only | United States |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | United States |
 </p></details>
 
 ## Uganda
@@ -6632,9 +6176,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Global Geography 1 – EMEA |
 | Viva Learning | Global Geography 1 – EMEA |
 | Viva Insights - Personal | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | Global Geography 1 – EMEA |
 </p></details>
 
 ## Ukraine
@@ -6660,9 +6202,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Global Geography 1 – EMEA |
 | Viva Learning | Global Geography 1 – EMEA |
 | Viva Insights - Personal | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | Global Geography 1 – EMEA |
 </p></details>
 
 ## United Arab Emirates
@@ -6688,9 +6228,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | United Arab Emirates |
 | Viva Learning | Global Geography 1 – EMEA |
 | Viva Insights - Personal | United Arab Emirates |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | United Arab Emirates |
  </p></details>
 
 ## United Kingdom
@@ -6716,9 +6254,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | United Kingdom |
 | Viva Learning | European Union |
 | Viva Insights - Personal | United Kingdom |
-| Viva Insights - Manager/Leader AAD org data only | European Union |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced |  |
 </p></details>
 
 ## United States
@@ -6744,10 +6280,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | United States |
 | Viva Learning | United States |
 | Viva Insights - Personal | United States |
-| Viva Insights - Manager/Leader AAD org data only | United States |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
-| Viva Goals | United States |
+| Viva Insights - Manager/Leader/Advanced | United States |
 </p></details>
 
 ## Uruguay
@@ -6773,9 +6306,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Global Geography 3 – Americas |
 | Viva Learning | Global Geography 3 – Americas |
 | Viva Insights - Personal | Global Geography 3 – Americas |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 3 – Americas |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | United States |
 </p></details>
 
 ## US Minor Outlying Islands
@@ -6801,9 +6332,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Global Geography 2 – Asia Pacific |
 | Viva Learning | Global Geography 2 – Asia Pacific |
 | Viva Insights - Personal | Global Geography 2 – Asia Pacific |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 2 – Asia Pacific |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | Global Geography 2 – Asia Pacific |
 </p></details>
 
 ## Uzbekistan
@@ -6829,9 +6358,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Global Geography 1 – EMEA |
 | Viva Learning | Global Geography 1 – EMEA |
 | Viva Insights - Personal | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | Global Geography 1 – EMEA |
 </p></details>
 
 ## Vanuatu
@@ -6857,9 +6384,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Global Geography 2 – Asia Pacific |
 | Viva Learning | Global Geography 2 – Asia Pacific |
 | Viva Insights - Personal | Global Geography 2 – Asia Pacific |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 2 – Asia Pacific |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | Global Geography 2 – Asia Pacific |
 </p></details>
 
 ## Venezuela
@@ -6884,9 +6409,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | United States |
 | Viva Learning | United States |
 | Viva Insights - Personal | United States |
-| Viva Insights - Manager/Leader AAD org data only | United States |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | United States |
 </p></details>
 
 ## Vietnam
@@ -6912,9 +6435,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Global Geography 2 – Asia Pacific |
 | Viva Learning | Global Geography 2 – Asia Pacific |
 | Viva Insights - Personal | Global Geography 2 – Asia Pacific |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 2 – Asia Pacific |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | Global Geography 2 – Asia Pacific |
 </p></details>
 
 ## Wallis and Futuna Islands
@@ -6940,9 +6461,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Global Geography 2 – Asia Pacific |
 | Viva Learning | Global Geography 2 – Asia Pacific |
 | Viva Insights - Personal | Global Geography 2 – Asia Pacific |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 2 – Asia Pacific |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | Global Geography 2 – Asia Pacific |
 </p></details>
 
 ## Western Sahara
@@ -6968,9 +6487,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Global Geography 1 – EMEA |
 | Viva Learning | Global Geography 1 – EMEA |
 | Viva Insights - Personal | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | Global Geography 1 – EMEA |
 </p></details>
 
 ## Yemen
@@ -6996,9 +6513,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Global Geography 1 – EMEA |
 | Viva Learning | Global Geography 1 – EMEA |
 | Viva Insights - Personal | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | Global Geography 1 – EMEA |
 </p></details>
 
 ## Zambia
@@ -7024,9 +6539,7 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Global Geography 1 – EMEA |
 | Viva Learning | Global Geography 1 – EMEA |
 | Viva Insights - Personal | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | Global Geography 1 – EMEA |
 </p></details>
 
 ## Zimbabwe
@@ -7052,7 +6565,5 @@ New Microsoft 365 tenants are defaulted to Geo based on the country of the billi
 | Viva Topics | Global Geography 1 – EMEA |
 | Viva Learning | Global Geography 1 – EMEA |
 | Viva Insights - Personal | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader AAD org data only | Global Geography 1 – EMEA |
-| Viva Insights - Manager/Leader with 3rd party HR data only | United States |
-| Viva Insights - Advanced | United States |
+| Viva Insights - Manager/Leader/Advanced | Global Geography 1 – EMEA |
 </p></details>
